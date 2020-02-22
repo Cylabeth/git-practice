@@ -1,3 +1,4 @@
 Name: Cylabeth
-Age: 39
+Age: 5
 Favorite color: Turquoise
+Hair: Brown
